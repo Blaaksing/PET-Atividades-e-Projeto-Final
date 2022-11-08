@@ -14,9 +14,9 @@ Projeto final para conclusão do curso de capacitação PET Redução do Consumo
 Foi desenvolvida uma inteligência artificial que identifica um possível invasor na região de interesse (ROI), e durante esse processo foram passados alguns dos filtros estudados durante o curso como também no final da execução, exibe a data de ocorrência da invasão.
 
 #Projeto feito com <3 por:
- Blaaksing
- FelipeRomeroPachecoSegundo
- mateusbcavalcanti
+ Blaaksing,
+ FelipeRomeroPachecoSegundo,
+ mateusbcavalcanti,
  Pedro Rocha (I could not find his Github :( )
  
 Em todos os programas existem imagens de exemplo. 
